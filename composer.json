@@ -28,7 +28,7 @@
     ]
   },
   "require": {
-    "php": "php": ">=8.2 <8.4",
+    "php": ">=8.2 <8.4",
     "ext-intl": "*",
     "vlucas/phpdotenv": "^5.3"
   },
